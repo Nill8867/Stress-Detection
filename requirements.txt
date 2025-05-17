@@ -1,0 +1,7 @@
+tensorflow==2.12.0
+opencv-python==4.7.0.72
+numpy==1.23.5
+Pillow==9.5.0
+scikit-learn==1.2.2
+streamlit==1.22.0
+plotly==5.14.1 
