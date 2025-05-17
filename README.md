@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Stress Detection for Quality Education
 
 ## Project Summary
@@ -96,3 +97,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 This project aims to create a more supportive educational environment by addressing the critical issue of student stress, ultimately contributing to better academic outcomes and student well-being. 
+=======
+# Stress-Detection
+>>>>>>> 39e4d08b4877482b03d1e9c61c6238e75f9915cd
